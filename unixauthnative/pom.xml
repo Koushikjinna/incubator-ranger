@@ -47,6 +47,7 @@
                     </sources>
                     <linkerEndOptions>
                         <linkerEndOption>-lpam</linkerEndOption>
+                        <linkerEndOption>-lcrypt</linkerEndOption>
                     </linkerEndOptions>
                 </configuration>
             </plugin>
